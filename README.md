@@ -1,3 +1,6 @@
-# Node-test
-exercicios do video:
-https://www.youtube.com/watch?v=IOfDoyP1Aq0&list=WL&index=2&t=2678s
+Atividade com Express do Curso de Back-End da Awari
+
+Objetivos
+  º Criar um projeto utilizando o Express.
+  º Fazer a comparação com um projeto sem o Express.
+  º Testar os métodos HTTP.
