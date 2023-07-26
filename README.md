@@ -7,5 +7,7 @@ Objetivos
 
 requisição(GET)
 Acesso pelo navegador
+
 Home page => http://localhost:8080/home
+
 Usuarios => http://localhost:8080/users
